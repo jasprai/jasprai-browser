@@ -1,5 +1,5 @@
-<h1 align="center">
-    <img src="https://github.com/user-attachments/assets/ec60b0c4-87ba-48f4-981a-c55ed0e8497b" height="100" width="375" alt="banner" /><br>
+﻿<h1 align="center">
+    <img src="assets/logo-top.png" height="150" width="500" alt="banner" /><br>
 </h1>
 
 <div align="center">
@@ -9,104 +9,104 @@
 
 </div>
 
-## 🌐 JasprAi
+## ðŸŒ JasprAi
 
-JasprAi, tarayıcınızda çalışan açık kaynaklı bir yapay zeka tarayıcı otomasyon aracıdır. Esnek LLM seçenekleri ve çoklu ajan sistemiyle birlikte OpenAI Operator’a ücretsiz bir alternatiftir.
+JasprAi, tarayÄ±cÄ±nÄ±zda Ã§alÄ±ÅŸan aÃ§Ä±k kaynaklÄ± bir yapay zeka tarayÄ±cÄ± otomasyon aracÄ±dÄ±r. Esnek LLM seÃ§enekleri ve Ã§oklu ajan sistemiyle birlikte OpenAI Operatorâ€™a Ã¼cretsiz bir alternatiftir.
 
 
 
-❤️ JasprAi’ı sevdiniz mi? Bize bir yıldız ⭐ verin ve yayılmasına yardımcı olun!
+â¤ï¸ JasprAiâ€™Ä± sevdiniz mi? Bize bir yÄ±ldÄ±z â­ verin ve yayÄ±lmasÄ±na yardÄ±mcÄ± olun!
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/112c4385-7b03-4b81-a352-4f348093351b" width="600" alt="JasprAi Demo GIF" />
-<p><em>JasprAi’ın çoklu ajan sistemi, HuggingFace'i gerçek zamanlı analiz ederken; Planner engellerle karşılaştığında akıllıca kendi kendini düzeltir ve Navigator’a yaklaşımını dinamik olarak ayarlamasını söyler—tüm bunlar yerel olarak tarayıcınızda gerçekleşir.</em></p>
+<p><em>JasprAiâ€™Ä±n Ã§oklu ajan sistemi, HuggingFace'i gerÃ§ek zamanlÄ± analiz ederken; Planner engellerle karÅŸÄ±laÅŸtÄ±ÄŸÄ±nda akÄ±llÄ±ca kendi kendini dÃ¼zeltir ve Navigatorâ€™a yaklaÅŸÄ±mÄ±nÄ± dinamik olarak ayarlamasÄ±nÄ± sÃ¶ylerâ€”tÃ¼m bunlar yerel olarak tarayÄ±cÄ±nÄ±zda gerÃ§ekleÅŸir.</em></p>
 </div>
 
-## 🔥Neden JasprAi?
+## ðŸ”¥Neden JasprAi?
 
-OpenAI Operator'ın aylık 200 dolarlık ücretinden kurtulmak mı istiyorsunuz? **JasprAi**, bir Chrome uzantısı olarak size premium tarayıcı otomasyonu yetenekleri sunar ve tam kontrolü elinizde tutmanızı sağlar:
+OpenAI Operator'Ä±n aylÄ±k 200 dolarlÄ±k Ã¼cretinden kurtulmak mÄ± istiyorsunuz? **JasprAi**, bir Chrome uzantÄ±sÄ± olarak size premium tarayÄ±cÄ± otomasyonu yetenekleri sunar ve tam kontrolÃ¼ elinizde tutmanÄ±zÄ± saÄŸlar:
 
-- **%100 Ücretsiz** - Abonelik ücreti veya gizli maliyetler yok. Sadece yükleyin ve kendi API anahtarlarınızı kullanın, ne kadar kullanırsanız o kadar ödersiniz.
-- **Gizlilik Odaklı** - Her şey yerel tarayıcınızda çalışır. Kimlik bilgileriniz yalnızca sizde kalır, bulut hizmetleriyle paylaşılmaz.
-- **Esnek LLM Seçenekleri** - Tercih ettiğiniz LLM sağlayıcılarına bağlanın, farklı ajanlar için farklı modeller seçme özgürlüğünüz olsun.
-- **Tamamen Açık Kaynak** - Tarayıcınızın nasıl otomatikleştirildiğini şeffaf bir şekilde görün. Gizli süreçler yok.
+- **%100 Ãœcretsiz** - Abonelik Ã¼creti veya gizli maliyetler yok. Sadece yÃ¼kleyin ve kendi API anahtarlarÄ±nÄ±zÄ± kullanÄ±n, ne kadar kullanÄ±rsanÄ±z o kadar Ã¶dersiniz.
+- **Gizlilik OdaklÄ±** - Her ÅŸey yerel tarayÄ±cÄ±nÄ±zda Ã§alÄ±ÅŸÄ±r. Kimlik bilgileriniz yalnÄ±zca sizde kalÄ±r, bulut hizmetleriyle paylaÅŸÄ±lmaz.
+- **Esnek LLM SeÃ§enekleri** - Tercih ettiÄŸiniz LLM saÄŸlayÄ±cÄ±larÄ±na baÄŸlanÄ±n, farklÄ± ajanlar iÃ§in farklÄ± modeller seÃ§me Ã¶zgÃ¼rlÃ¼ÄŸÃ¼nÃ¼z olsun.
+- **Tamamen AÃ§Ä±k Kaynak** - TarayÄ±cÄ±nÄ±zÄ±n nasÄ±l otomatikleÅŸtirildiÄŸini ÅŸeffaf bir ÅŸekilde gÃ¶rÃ¼n. Gizli sÃ¼reÃ§ler yok.
 
-> **Not:** Şu anda OpenAI, Anthropic, Gemini, Ollama, Groq, Cerebras ve OpenAI uyumlu özel sağlayıcıları destekliyoruz. Daha fazlası yolda.
+> **Not:** Åžu anda OpenAI, Anthropic, Gemini, Ollama, Groq, Cerebras ve OpenAI uyumlu Ã¶zel saÄŸlayÄ±cÄ±larÄ± destekliyoruz. Daha fazlasÄ± yolda.
 
-## 📊 Temel Özellikler
+## ðŸ“Š Temel Ã–zellikler
 
-- **Çoklu Ajan Sistemi**: Uzmanlaşmış yapay zeka ajanları, karmaşık web görevlerini birlikte gerçekleştirir
-- **Etkileşimli Yan Panel**: Gerçek zamanlı durum güncellemeleriyle sezgisel sohbet arayüzü
-- **Görev Otomasyonu**: Web siteleri arasında tekrar eden görevleri sorunsuz şekilde otomatikleştirir
-- **Takip Soruları**: Tamamlanan görevler hakkında bağlamsal takip soruları sorabilirsiniz
-- **Konuşma Geçmişi**: Yapay zeka ajanlarınızla olan geçmiş etkileşimlere kolay erişim
-- **Çoklu LLM Desteği**: Tercih ettiğiniz LLM sağlayıcılarına bağlanın, farklı ajanlara farklı modeller atayın
+- **Ã‡oklu Ajan Sistemi**: UzmanlaÅŸmÄ±ÅŸ yapay zeka ajanlarÄ±, karmaÅŸÄ±k web gÃ¶revlerini birlikte gerÃ§ekleÅŸtirir
+- **EtkileÅŸimli Yan Panel**: GerÃ§ek zamanlÄ± durum gÃ¼ncellemeleriyle sezgisel sohbet arayÃ¼zÃ¼
+- **GÃ¶rev Otomasyonu**: Web siteleri arasÄ±nda tekrar eden gÃ¶revleri sorunsuz ÅŸekilde otomatikleÅŸtirir
+- **Takip SorularÄ±**: Tamamlanan gÃ¶revler hakkÄ±nda baÄŸlamsal takip sorularÄ± sorabilirsiniz
+- **KonuÅŸma GeÃ§miÅŸi**: Yapay zeka ajanlarÄ±nÄ±zla olan geÃ§miÅŸ etkileÅŸimlere kolay eriÅŸim
+- **Ã‡oklu LLM DesteÄŸi**: Tercih ettiÄŸiniz LLM saÄŸlayÄ±cÄ±larÄ±na baÄŸlanÄ±n, farklÄ± ajanlara farklÄ± modeller atayÄ±n
 
-## 🌐 Tarayıcı Desteği
+## ðŸŒ TarayÄ±cÄ± DesteÄŸi
 
 **Resmi olarak desteklenenler:**
-- **Chrome** – Tüm özelliklerle tam destek
-- **Edge** – Tüm özelliklerle tam destek
+- **Chrome** â€“ TÃ¼m Ã¶zelliklerle tam destek
+- **Edge** â€“ TÃ¼m Ã¶zelliklerle tam destek
 
 **Desteklenmeyenler:**
-- Firefox, Safari ve diğer Chromium türevleri (Opera, Arc vb.)
+- Firefox, Safari ve diÄŸer Chromium tÃ¼revleri (Opera, Arc vb.)
 
-> **Not**: JasprAi diğer Chromium tabanlı tarayıcılarda çalışabilir, ancak en iyi deneyim ve garantili uyumluluk için Chrome veya Edge öneriyoruz.
+> **Not**: JasprAi diÄŸer Chromium tabanlÄ± tarayÄ±cÄ±larda Ã§alÄ±ÅŸabilir, ancak en iyi deneyim ve garantili uyumluluk iÃ§in Chrome veya Edge Ã¶neriyoruz.
 
-## 🚀 Hızlı Başlangıç
+## ðŸš€ HÄ±zlÄ± BaÅŸlangÄ±Ã§
 
-1. **Chrome Web Mağazası’ndan Kurulum** (Kararlı Sürüm):
-   * "Chrome’a Ekle" butonuna tıklayın
-   * Kurulumu onaylayın
+1. **Chrome Web MaÄŸazasÄ±â€™ndan Kurulum** (KararlÄ± SÃ¼rÃ¼m):
+   * "Chromeâ€™a Ekle" butonuna tÄ±klayÄ±n
+   * Kurulumu onaylayÄ±n
 
-> **Önemli Not**: En yeni özellikler için aşağıdaki ["En Son Sürümü Manuel Kur"](#-en-son-sürümü-manuel-kur) kısmından kurulum yapmanızı öneririz. Chrome Web Mağazası versiyonu inceleme süreci nedeniyle gecikebilir.
+> **Ã–nemli Not**: En yeni Ã¶zellikler iÃ§in aÅŸaÄŸÄ±daki ["En Son SÃ¼rÃ¼mÃ¼ Manuel Kur"](#-en-son-sÃ¼rÃ¼mÃ¼-manuel-kur) kÄ±smÄ±ndan kurulum yapmanÄ±zÄ± Ã¶neririz. Chrome Web MaÄŸazasÄ± versiyonu inceleme sÃ¼reci nedeniyle gecikebilir.
 
-2. **Ajan Modellerini Yapılandırın**:
-   * Araç çubuğundaki JasprAi simgesine tıklayın
-   * Sağ üstteki `Ayarlar` simgesine tıklayın
-   * LLM API anahtarlarınızı ekleyin
-   * Farklı ajanlar (Navigator, Planner) için hangi modelin kullanılacağını seçin
+2. **Ajan Modellerini YapÄ±landÄ±rÄ±n**:
+   * AraÃ§ Ã§ubuÄŸundaki JasprAi simgesine tÄ±klayÄ±n
+   * SaÄŸ Ã¼stteki `Ayarlar` simgesine tÄ±klayÄ±n
+   * LLM API anahtarlarÄ±nÄ±zÄ± ekleyin
+   * FarklÄ± ajanlar (Navigator, Planner) iÃ§in hangi modelin kullanÄ±lacaÄŸÄ±nÄ± seÃ§in
 
-## 🔧 En Son Sürümü Manuel Kur
+## ðŸ”§ En Son SÃ¼rÃ¼mÃ¼ Manuel Kur
 
-En yeni özellikleri içeren en güncel sürümü kurmak için:
+En yeni Ã¶zellikleri iÃ§eren en gÃ¼ncel sÃ¼rÃ¼mÃ¼ kurmak iÃ§in:
 
-1. **İndirin**
-    * Resmi Github [sürüm sayfasından](https://github.com/jasprai/jasprai-browser/releases) en güncel `jasprai.zip` dosyasını indirin
+1. **Ä°ndirin**
+    * Resmi Github [sÃ¼rÃ¼m sayfasÄ±ndan](https://github.com/jasprai/jasprai-browser/releases) en gÃ¼ncel `jasprai.zip` dosyasÄ±nÄ± indirin
 
 2. **Kurulum**:
-    * `jasprai.zip` dosyasını çıkarın
+    * `jasprai.zip` dosyasÄ±nÄ± Ã§Ä±karÄ±n
     * Chrome'da `chrome://extensions/` adresine gidin
-    * Sağ üstten `Geliştirici modu`nu etkinleştirin
-    * Sol üstte `Paketlenmemişi yükle`ye tıklayın
-    * Çıkardığınız `jasprai` klasörünü seçin
+    * SaÄŸ Ã¼stten `GeliÅŸtirici modu`nu etkinleÅŸtirin
+    * Sol Ã¼stte `PaketlenmemiÅŸi yÃ¼kle`ye tÄ±klayÄ±n
+    * Ã‡Ä±kardÄ±ÄŸÄ±nÄ±z `jasprai` klasÃ¶rÃ¼nÃ¼ seÃ§in
 
-3. **Ajan Modellerini Yapılandırın**
-    * JasprAi simgesine tıklayarak yan paneli açın
-    * Sağ üstteki `Ayarlar` simgesine tıklayın
-    * API anahtarlarınızı ekleyin
-    * Ajanlara model atayın (Navigator, Planner)
+3. **Ajan Modellerini YapÄ±landÄ±rÄ±n**
+    * JasprAi simgesine tÄ±klayarak yan paneli aÃ§Ä±n
+    * SaÄŸ Ã¼stteki `Ayarlar` simgesine tÄ±klayÄ±n
+    * API anahtarlarÄ±nÄ±zÄ± ekleyin
+    * Ajanlara model atayÄ±n (Navigator, Planner)
 
-4. **Güncelleme**:
-    * Yeni `jasprai.zip` dosyasını indirin
-    * Mevcut JasprAi dosyalarını yenileriyle değiştirin
-    * `chrome://extensions/` sayfasına gidip JasprAi kartındaki yenile simgesine tıklayın
+4. **GÃ¼ncelleme**:
+    * Yeni `jasprai.zip` dosyasÄ±nÄ± indirin
+    * Mevcut JasprAi dosyalarÄ±nÄ± yenileriyle deÄŸiÅŸtirin
+    * `chrome://extensions/` sayfasÄ±na gidip JasprAi kartÄ±ndaki yenile simgesine tÄ±klayÄ±n
 
-## 🛠️ Kaynaktan Derleme
+## ðŸ› ï¸ Kaynaktan Derleme
 
-JasprAi’ı kendiniz derlemek isterseniz şu adımları izleyin:
+JasprAiâ€™Ä± kendiniz derlemek isterseniz ÅŸu adÄ±mlarÄ± izleyin:
 
 1. **Gereksinimler**:
-   * [Node.js](https://nodejs.org/) (v22.12.0 veya üstü)
-   * [pnpm](https://pnpm.io/installation) (v9.15.1 veya üstü)
+   * [Node.js](https://nodejs.org/) (v22.12.0 veya Ã¼stÃ¼)
+   * [pnpm](https://pnpm.io/installation) (v9.15.1 veya Ã¼stÃ¼)
 
-2. **Depoyu Klonlayın**:
+2. **Depoyu KlonlayÄ±n**:
    ```bash
    git clone https://github.com/jasprai/jasprai-browser.git
    cd jasprai-browser
    ```
 
-3. **Bağımlılıkları Yükleyin**:
+3. **BaÄŸÄ±mlÄ±lÄ±klarÄ± YÃ¼kleyin**:
 
    ```bash
    pnpm install
@@ -118,139 +118,139 @@ JasprAi’ı kendiniz derlemek isterseniz şu adımları izleyin:
    pnpm build
    ```
 
-5. **Eklentiyi Yükleyin**:
+5. **Eklentiyi YÃ¼kleyin**:
 
-   * Derlenen eklenti `dist` klasöründe bulunur
-   * Manuel Kurulum bölümündeki adımları takip ederek yükleyin
+   * Derlenen eklenti `dist` klasÃ¶rÃ¼nde bulunur
+   * Manuel Kurulum bÃ¶lÃ¼mÃ¼ndeki adÄ±mlarÄ± takip ederek yÃ¼kleyin
 
-6. **Geliştirme Modu** (isteğe bağlı):
+6. **GeliÅŸtirme Modu** (isteÄŸe baÄŸlÄ±):
 
    ```bash
    pnpm dev
    ```
 
-## 🤖 Model Seçimi
+## ðŸ¤– Model SeÃ§imi
 
-JasprAi, her ajan için farklı LLM modelleri ayarlamanıza olanak tanır. Böylece performans ve maliyet arasında denge kurabilirsiniz. İşte önerilen yapılandırmalar:
+JasprAi, her ajan iÃ§in farklÄ± LLM modelleri ayarlamanÄ±za olanak tanÄ±r. BÃ¶ylece performans ve maliyet arasÄ±nda denge kurabilirsiniz. Ä°ÅŸte Ã¶nerilen yapÄ±landÄ±rmalar:
 
-### Daha Yüksek Performans
+### Daha YÃ¼ksek Performans
 
 * **Planner**: Claude Sonnet 4
 
-  * Daha iyi mantıksal düşünme ve planlama
+  * Daha iyi mantÄ±ksal dÃ¼ÅŸÃ¼nme ve planlama
 * **Navigator**: Claude Haiku 3.5
 
-  * Web gezintisi görevlerinde verimli
+  * Web gezintisi gÃ¶revlerinde verimli
   * Performans ve maliyet dengesi
 
-### Uygun Maliyetli Yapılandırma
+### Uygun Maliyetli YapÄ±landÄ±rma
 
 * **Planner**: Claude Haiku veya GPT-4o
 
-  * Düşük maliyetle makul performans
-  * Karmaşık görevlerde daha fazla yineleme gerekebilir
+  * DÃ¼ÅŸÃ¼k maliyetle makul performans
+  * KarmaÅŸÄ±k gÃ¶revlerde daha fazla yineleme gerekebilir
 * **Navigator**: Gemini 2.5 Flash veya GPT-4o-mini
 
   * Hafif ve ekonomik
-  * Temel gezinme görevleri için yeterli
+  * Temel gezinme gÃ¶revleri iÃ§in yeterli
 
 ### Yerel Modeller
 
-* **Kurulum Seçenekleri**:
+* **Kurulum SeÃ§enekleri**:
 
-  * Ollama veya diğer OpenAI uyumlu sağlayıcılar ile modelleri yerel olarak çalıştırın
-  * Sıfır API maliyeti ve tam gizlilik
+  * Ollama veya diÄŸer OpenAI uyumlu saÄŸlayÄ±cÄ±lar ile modelleri yerel olarak Ã§alÄ±ÅŸtÄ±rÄ±n
+  * SÄ±fÄ±r API maliyeti ve tam gizlilik
 
-* **Önerilen Modeller**:
+* **Ã–nerilen Modeller**:
 
   * **Qwen3-30B-A3B-Instruct-2507**
   * **Falcon3 10B**
   * **Qwen 2.5 Coder 14B**
   * **Mistral Small 24B**
-  * [Topluluktan en son test sonuçları](https://gist.github.com/maximus2600/75d60bf3df62986e2254d5166e2524cb)
+  * [Topluluktan en son test sonuÃ§larÄ±](https://gist.github.com/maximus2600/75d60bf3df62986e2254d5166e2524cb)
 
-* **Prompt Mühendisliği**:
+* **Prompt MÃ¼hendisliÄŸi**:
 
-  * Yerel modeller daha net ve özgül komutlar ister
-  * Yüksek seviyeli, belirsiz komutlardan kaçının
-  * Karmaşık görevleri adım adım açık şekilde verin
-  * Net bağlam ve kısıtlamalar belirtin
+  * Yerel modeller daha net ve Ã¶zgÃ¼l komutlar ister
+  * YÃ¼ksek seviyeli, belirsiz komutlardan kaÃ§Ä±nÄ±n
+  * KarmaÅŸÄ±k gÃ¶revleri adÄ±m adÄ±m aÃ§Ä±k ÅŸekilde verin
+  * Net baÄŸlam ve kÄ±sÄ±tlamalar belirtin
 
-> **Not**: Ucuz yapılandırmalar daha az kararlı çıktı verebilir ve karmaşık görevlerde daha fazla yineleme gerekebilir.
+> **Not**: Ucuz yapÄ±landÄ±rmalar daha az kararlÄ± Ã§Ä±ktÄ± verebilir ve karmaÅŸÄ±k gÃ¶revlerde daha fazla yineleme gerekebilir.
 
 
-## 💡 Uygulamalı Örnekler
+## ðŸ’¡ UygulamalÄ± Ã–rnekler
 
-Sadece bir cümleyle gerçekleştirebileceğiniz güçlü görevlerden bazıları:
+Sadece bir cÃ¼mleyle gerÃ§ekleÅŸtirebileceÄŸiniz gÃ¼Ã§lÃ¼ gÃ¶revlerden bazÄ±larÄ±:
 
-1. **Haber Özeti**:
+1. **Haber Ã–zeti**:
 
-   > "TechCrunch'a git ve son 24 saatteki en popüler 10 başlığı çıkar"
+   > "TechCrunch'a git ve son 24 saatteki en popÃ¼ler 10 baÅŸlÄ±ÄŸÄ± Ã§Ä±kar"
 
-2. **GitHub Araştırması**:
+2. **GitHub AraÅŸtÄ±rmasÄ±**:
 
-   > "En çok yıldız almış popüler Python depolarını GitHub'da bul"
+   > "En Ã§ok yÄ±ldÄ±z almÄ±ÅŸ popÃ¼ler Python depolarÄ±nÄ± GitHub'da bul"
 
-3. **Alışveriş Araştırması**:
+3. **AlÄ±ÅŸveriÅŸ AraÅŸtÄ±rmasÄ±**:
 
-   > "Amazon’da suya dayanıklı, 10 saat batarya ömrüne sahip, 50 doların altında taşınabilir bir Bluetooth hoparlör bul"
+   > "Amazonâ€™da suya dayanÄ±klÄ±, 10 saat batarya Ã¶mrÃ¼ne sahip, 50 dolarÄ±n altÄ±nda taÅŸÄ±nabilir bir Bluetooth hoparlÃ¶r bul"
 
-## 🛠️ Yol Haritası
+## ðŸ› ï¸ Yol HaritasÄ±
 
-JasprAi için heyecan verici yeni özellikler geliştiriyoruz, katılmak ister misiniz?
+JasprAi iÃ§in heyecan verici yeni Ã¶zellikler geliÅŸtiriyoruz, katÄ±lmak ister misiniz?
 
-Detaylı yol haritamıza ve gelecek özelliklere [GitHub Discussions](https://github.com/jasprai/jasprai-browser/discussions/85) üzerinden göz atabilirsiniz.
+DetaylÄ± yol haritamÄ±za ve gelecek Ã¶zelliklere [GitHub Discussions](https://github.com/jasprai/jasprai-browser/discussions/85) Ã¼zerinden gÃ¶z atabilirsiniz.
 
-## 🤝 Katkıda Bulunun
+## ðŸ¤ KatkÄ±da Bulunun
 
-**JasprAi’ı daha iyi hale getirmemize yardım edin!** Her türden katkıya açığız:
+**JasprAiâ€™Ä± daha iyi hale getirmemize yardÄ±m edin!** Her tÃ¼rden katkÄ±ya aÃ§Ä±ÄŸÄ±z:
 
-* **Prompt & Kullanım Senaryoları Paylaşın**
+* **Prompt & KullanÄ±m SenaryolarÄ± PaylaÅŸÄ±n**
 
-  * JasprAi’ı nasıl kullandığınızı anlatın ve topluluk kütüphanemizi büyütün
+  * JasprAiâ€™Ä± nasÄ±l kullandÄ±ÄŸÄ±nÄ±zÄ± anlatÄ±n ve topluluk kÃ¼tÃ¼phanemizi bÃ¼yÃ¼tÃ¼n
 * **Geri Bildirim Verin**
 
-  * JasprAi’ı deneyin ve performansı hakkında önerilerinizi paylaşın
-* **Kod Katkısı Yapın**
+  * JasprAiâ€™Ä± deneyin ve performansÄ± hakkÄ±nda Ã¶nerilerinizi paylaÅŸÄ±n
+* **Kod KatkÄ±sÄ± YapÄ±n**
 
-  * Kod katkısı için yönergeleri [CONTRIBUTING.md](CONTRIBUTING.md) dosyasında bulabilirsiniz
-  * Hatalar, özellikler veya dökümantasyon iyileştirmeleri için pull request gönderin
+  * Kod katkÄ±sÄ± iÃ§in yÃ¶nergeleri [CONTRIBUTING.md](CONTRIBUTING.md) dosyasÄ±nda bulabilirsiniz
+  * Hatalar, Ã¶zellikler veya dÃ¶kÃ¼mantasyon iyileÅŸtirmeleri iÃ§in pull request gÃ¶nderin
 
-Açık kaynak ve topluluk iş birliğine inanıyoruz. Tarayıcı otomasyonunun geleceğini birlikte inşa edelim!
+AÃ§Ä±k kaynak ve topluluk iÅŸ birliÄŸine inanÄ±yoruz. TarayÄ±cÄ± otomasyonunun geleceÄŸini birlikte inÅŸa edelim!
 
-## 🔒 Güvenlik
+## ðŸ”’ GÃ¼venlik
 
-Bir güvenlik açığı keşfederseniz, lütfen bunu açık şekilde **issue, pull request veya discussion** yoluyla paylaşmayın.
+Bir gÃ¼venlik aÃ§Ä±ÄŸÄ± keÅŸfederseniz, lÃ¼tfen bunu aÃ§Ä±k ÅŸekilde **issue, pull request veya discussion** yoluyla paylaÅŸmayÄ±n.
 
-Bunun yerine, [GitHub Güvenlik Danışma Sayfası](https://github.com/jasprai/jasprai-browser/security/advisories/new) üzerinden özel olarak bildirin. Böylece açığı kamuya açıklanmadan önce düzeltme şansı buluruz.
+Bunun yerine, [GitHub GÃ¼venlik DanÄ±ÅŸma SayfasÄ±](https://github.com/jasprai/jasprai-browser/security/advisories/new) Ã¼zerinden Ã¶zel olarak bildirin. BÃ¶ylece aÃ§Ä±ÄŸÄ± kamuya aÃ§Ä±klanmadan Ã¶nce dÃ¼zeltme ÅŸansÄ± buluruz.
 
-JasprAi’ı ve kullanıcılarını güvende tutmaya yardım ettiğiniz için teşekkür ederiz!
+JasprAiâ€™Ä± ve kullanÄ±cÄ±larÄ±nÄ± gÃ¼vende tutmaya yardÄ±m ettiÄŸiniz iÃ§in teÅŸekkÃ¼r ederiz!
 
-## 💬 Topluluk
+## ðŸ’¬ Topluluk
 
-Giderek büyüyen geliştirici ve kullanıcı topluluğumuza katılın:
+Giderek bÃ¼yÃ¼yen geliÅŸtirici ve kullanÄ±cÄ± topluluÄŸumuza katÄ±lÄ±n:
 
-* [Twitter](https://x.com/jaspraibrowser) – Güncellemeler ve duyurular
-* [GitHub Discussions](https://github.com/jasprai/jasprai-browser/discussions) – Fikirlerinizi paylaşın ve sorular sorun
+* [Twitter](https://x.com/jaspraibrowser) â€“ GÃ¼ncellemeler ve duyurular
+* [GitHub Discussions](https://github.com/jasprai/jasprai-browser/discussions) â€“ Fikirlerinizi paylaÅŸÄ±n ve sorular sorun
 
-## 👏 Teşekkürler
+## ðŸ‘ TeÅŸekkÃ¼rler
 
-JasprAi, şu harika açık kaynak projeler üzerine inşa edilmiştir:
+JasprAi, ÅŸu harika aÃ§Ä±k kaynak projeler Ã¼zerine inÅŸa edilmiÅŸtir:
 
 * [Browser Use](https://github.com/browser-use/browser-use)
 * [Puppeteer](https://github.com/EmergenceAI/Agent-E)
 * [Chrome Extension Boilerplate](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite)
 * [LangChain](https://github.com/langchain-ai/langchainjs)
 
-Tüm yaratıcılarına ve katkıda bulunanlara büyük teşekkürler!
+TÃ¼m yaratÄ±cÄ±larÄ±na ve katkÄ±da bulunanlara bÃ¼yÃ¼k teÅŸekkÃ¼rler!
 
-## 📄 Lisans
+## ðŸ“„ Lisans
 
-Bu proje Apache License 2.0 ile lisanslanmıştır – detaylar için [LICENSE](LICENSE) dosyasına bakın.
+Bu proje Apache License 2.0 ile lisanslanmÄ±ÅŸtÄ±r â€“ detaylar iÃ§in [LICENSE](LICENSE) dosyasÄ±na bakÄ±n.
 
-Sevgiyle yapıldı ❤️ JasprAi Ekibi tarafından.
+Sevgiyle yapÄ±ldÄ± â¤ï¸ JasprAi Ekibi tarafÄ±ndan.
 
 
 ---
 
-📘 **Türkçe çeviri katkısı**: Burak Can Öğüt
+ðŸ“˜ **TÃ¼rkÃ§e Ã§eviri katkÄ±sÄ±**: Burak Can Ã–ÄŸÃ¼t

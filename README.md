@@ -1,5 +1,5 @@
-<h1 align="center">
-    <img src="https://github.com/user-attachments/assets/ec60b0c4-87ba-48f4-981a-c55ed0e8497b" height="100" width="375" alt="banner" /><br>
+﻿<h1 align="center">
+    <img src="assets/logo-top.png" height="150" width="500" alt="banner" /><br>
 </h1>
 
 
@@ -10,7 +10,7 @@
 
 </div>
 
-## 🌐 JasprAi
+## ðŸŒ JasprAi
 
 JasprAi is an open-source AI web automation tool that runs in your browser. A free alternative to OpenAI Operator with flexible LLM options and multi-agent system.
 
@@ -20,10 +20,10 @@ JasprAi is an open-source AI web automation tool that runs in your browser. A fr
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/112c4385-7b03-4b81-a352-4f348093351b" width="600" alt="JasprAi Demo GIF" />
-<p><em>JasprAi's multi-agent system analyzing HuggingFace in real-time, with the Planner intelligently self-correcting when encountering obstacles and dynamically instructing the Navigator to adjust its approach—all running locally in your browser.</em></p>
+<p><em>JasprAi's multi-agent system analyzing HuggingFace in real-time, with the Planner intelligently self-correcting when encountering obstacles and dynamically instructing the Navigator to adjust its approachâ€”all running locally in your browser.</em></p>
 </div>
 
-## 🔥Why JasprAi?
+## ðŸ”¥Why JasprAi?
 
 Looking for a powerful AI browser agent without the $200/month price tag of OpenAI Operator? **JasprAi** , as a chrome extension, delivers premium web automation capabilities while keeping you in complete control:
 
@@ -35,7 +35,7 @@ Looking for a powerful AI browser agent without the $200/month price tag of Open
 > **Note:** We currently support OpenAI, Anthropic, Gemini, Ollama, Groq, Cerebras, Llama and custom OpenAI-Compatible providers, more providers will be supported.
 
 
-## 📊 Key Features
+## ðŸ“Š Key Features
 
 - **Multi-agent System**: Specialized AI agents collaborate to accomplish complex web workflows
 - **Interactive Side Panel**: Intuitive chat interface with real-time status updates
@@ -45,7 +45,7 @@ Looking for a powerful AI browser agent without the $200/month price tag of Open
 - **Multiple LLM Support**: Connect your preferred LLM providers and assign different models to different agents
 
 
-## 🌐 Browser Support
+## ðŸŒ Browser Support
 
 **Officially Supported:**
 - **Chrome** - Full support with all features
@@ -57,7 +57,7 @@ Looking for a powerful AI browser agent without the $200/month price tag of Open
 > **Note**: While JasprAi may function on other Chromium-based browsers, we recommend using Chrome or Edge for the best experience and guaranteed compatibility.
 
 
-## 🚀 Quick Start
+## ðŸš€ Quick Start
 
 1. **Install from Chrome Web Store** (Stable Version):
    * Click "Add to Chrome" button
@@ -71,7 +71,7 @@ Looking for a powerful AI browser agent without the $200/month price tag of Open
    * Add your LLM API keys
    * Choose which model to use for different agents (Navigator, Planner)
 
-## 🔧 Manually Install Latest Version
+## ðŸ”§ Manually Install Latest Version
 
 To get the most recent version with all the latest features:
 
@@ -96,7 +96,7 @@ To get the most recent version with all the latest features:
     * Unzip and replace your existing JasprAi files with the new ones.
     * Go to `chrome://extensions/` in Chrome and click the refresh icon on the JasprAi card.
 
-## 🛠️ Build from Source
+## ðŸ› ï¸ Build from Source
 
 If you prefer to build JasprAi yourself, follow these steps:
 
@@ -129,7 +129,7 @@ If you prefer to build JasprAi yourself, follow these steps:
    pnpm dev
    ```
 
-## 🤖 Choosing Your Models
+## ðŸ¤– Choosing Your Models
 
 JasprAi allows you to configure different LLM models for each agent to balance performance and cost. Here are recommended configurations:
 
@@ -169,7 +169,7 @@ JasprAi allows you to configure different LLM models for each agent to balance p
 > **Note**: The cost-effective configuration may produce less stable outputs and require more iterations for complex tasks.
 
 
-## 💡 See It In Action
+## ðŸ’¡ See It In Action
 
 Here are some powerful tasks you can accomplish with just a sentence:
 
@@ -182,13 +182,13 @@ Here are some powerful tasks you can accomplish with just a sentence:
 3. **Shopping Research**:
    > "Find a portable Bluetooth speaker on Amazon with a water-resistant design, under $50. It should have a minimum battery life of 10 hours"
 
-## 🛠️ Roadmap
+## ðŸ› ï¸ Roadmap
 
 We're actively developing JasprAi with exciting features on the horizon, welcome to join us! 
 
 Check out our detailed roadmap and upcoming features in our [GitHub Discussions](https://github.com/jasprai/jasprai-browser/discussions/85). 
 
-## 🤝 Contributing
+## ðŸ¤ Contributing
 
 **We need your help to make JasprAi even better!**  Contributions of all kinds are welcome:
 
@@ -203,7 +203,7 @@ Check out our detailed roadmap and upcoming features in our [GitHub Discussions]
 We believe in the power of open source and community collaboration.  Join us in building the future of web automation!
 
 
-## 🔒 Security
+## ðŸ”’ Security
 
 If you discover a security vulnerability, please **DO NOT** disclose it publicly through issues, pull requests, or discussions.
 
@@ -211,14 +211,14 @@ Instead, please create a [GitHub Security Advisory](https://github.com/jasprai/j
 
 We appreciate your help in keeping JasprAi and its users safe!
 
-## 💬 Community
+## ðŸ’¬ Community
 
 Join our growing community of developers and users:
 
 - [Twitter](https://x.com/jaspraibrowser) - Follow for updates and announcements
 - [GitHub Discussions](https://github.com/jasprai/jasprai-browser/discussions) - Share ideas and ask questions
 
-## 👏 Acknowledgments
+## ðŸ‘ Acknowledgments
 
 JasprAi builds on top of other awesome open-source projects:
 
@@ -229,18 +229,18 @@ JasprAi builds on top of other awesome open-source projects:
 
 Huge thanks to their creators and contributors!
 
-## 📄 License
+## ðŸ“„ License
 
 This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
 
-Made with ❤️ by the JasprAi Team. 
+Made with â¤ï¸ by the JasprAi Team. 
 
 
-## ⚠️ DISCLAIMER ON DERIVATIVE PROJECTS
+## âš ï¸ DISCLAIMER ON DERIVATIVE PROJECTS
 
 **We explicitly *DO NOT* endorse, support, or participate in any** projects involving cryptocurrencies, tokens, NFTs, or other blockchain-related applications **based on this codebase.**
 
-**Any such derivative projects are NOT Affiliated with, or maintained by, or in any way connected to the official JasprAi project or its core team.**
+**Any such derivative projects areÂ NOTÂ Affiliated with, or maintained by, or in any way connected to the official JasprAi project or its core team.**
 
 **We assume NO LIABILITY for any losses, damages, or issues arising from the use of third-party derivative projects. Users interact with these projects at their own risk.**
 
