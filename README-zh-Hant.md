@@ -19,7 +19,7 @@ JasprAi æ˜¯ä¸€æ¬¾åœ¨ç€è¦½å™¨ä¸­åŸ·è¡Œçš„é
 â¤ï¸ å–œæ­¡ JasprAi å—Žï¼Ÿè«‹çµ¦æˆ‘å€‘ä¸€é¡†æ˜Ÿæ˜Ÿ ðŸŒŸ ä¸¦å”åŠ©åˆ†äº«ï¼
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/112c4385-7b03-4b81-a352-4f348093351b" width="600" alt="JasprAi Demo GIF" />
+<img src="assets/demo-screenshot.png" width="600" alt="JasprAi Demo Screenshot" />
 <p><em>JasprAi çš„å¤šä»£ç†ç³»çµ±å³æ™‚åˆ†æž HuggingFaceï¼Œå…¶ä¸­ Planner æœƒåœ¨é‡åˆ°éšœç¤™æ™‚è‡ªè¡Œä¿®æ­£ï¼Œä¸¦å‹•æ…‹æŒ‡ç¤º Navigator èª¿æ•´åšæ³•â€”â€”é€™ä¸€åˆ‡éƒ½åœ¨æœ¬æ©Ÿç€è¦½å™¨ä¸­åŸ·è¡Œã€‚</em></p>
 </div>
 

@@ -21,7 +21,7 @@ JasprAi is an open-source AI web automation tool that runs in your browser. A fr
 
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/112c4385-7b03-4b81-a352-4f348093351b" width="600" alt="JasprAi Demo GIF" />
+<img src="assets/demo-screenshot.png" width="600" alt="JasprAi Demo Screenshot" />
 <p><em>JasprAi's multi-agent system analyzing HuggingFace in real-time, with the Planner intelligently self-correcting when encountering obstacles and dynamically instructing the Navigator to adjust its approach - all running locally in your browser.</em></p>
 </div>
 

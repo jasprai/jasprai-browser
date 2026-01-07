@@ -19,7 +19,7 @@ JasprAi es una herramienta de automatizaciÃ³n web con IA que se ejecuta en tu 
 â¤ï¸ Â¿Te encanta JasprAi? Â¡Danos una estrella ðŸŒŸ y ayÃºdanos a correr la voz!
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/112c4385-7b03-4b81-a352-4f348093351b" width="600" alt="JasprAi Demo GIF" />
+<img src="assets/demo-screenshot.png" width="600" alt="JasprAi Demo Screenshot" />
 <p><em>El sistema multiagente de JasprAi analizando HuggingFace en tiempo real, con el Planner autocorrigiÃ©ndose de forma inteligente al enfrentar obstÃ¡culos e instruyendo dinÃ¡micamente al Navigator para ajustar su enfoque, todo ejecutÃ¡ndose localmente en tu navegador.</em></p>
 </div>
 

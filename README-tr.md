@@ -18,7 +18,7 @@ JasprAi, tarayÄ±cÄ±nÄ±zda Ã§alÄ±ÅŸan aÃ§Ä±k kaynaklÄ± bir yapa
 â¤ï¸ JasprAiâ€™Ä± sevdiniz mi? Bize bir yÄ±ldÄ±z â­ verin ve yayÄ±lmasÄ±na yardÄ±mcÄ± olun!
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/112c4385-7b03-4b81-a352-4f348093351b" width="600" alt="JasprAi Demo GIF" />
+<img src="assets/demo-screenshot.png" width="600" alt="JasprAi Demo Screenshot" />
 <p><em>JasprAiâ€™Ä±n Ã§oklu ajan sistemi, HuggingFace'i gerÃ§ek zamanlÄ± analiz ederken; Planner engellerle karÅŸÄ±laÅŸtÄ±ÄŸÄ±nda akÄ±llÄ±ca kendi kendini dÃ¼zeltir ve Navigatorâ€™a yaklaÅŸÄ±mÄ±nÄ± dinamik olarak ayarlamasÄ±nÄ± sÃ¶ylerâ€”tÃ¼m bunlar yerel olarak tarayÄ±cÄ±nÄ±zda gerÃ§ekleÅŸir.</em></p>
 </div>
 
